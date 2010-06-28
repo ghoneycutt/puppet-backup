@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/generic"
+    }
+  ],
+  "name": "ghoneycutt-backup",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "e88d8e4c5790b6e28781b96efe66c714",
+    "tests/init.pp": "4466a5669180a5e303d66f23e31e8b9f",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "a7607fded7958195a0b794e33473ba74",
+    "manifests/init.pp": "151b8dcc0c8de298d9d6424fd4dc55a6"
+  },
+  "types": [
+
+  ]
+}
